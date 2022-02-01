@@ -7,3 +7,22 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+html {
+   font-size: 19px;
+   line-height: 24px;
+   padding: 12px 6px 6px 6px; /* quarter line */
+ }
+
+ h1 {
+   font-family: "PT Serif", serif;
+   font-size: 1.667em; /* 31.673 / 19 = 1.667 */
+   line-height: 1.1366147823em; /* line and a half; 36 / 31.673 = 1.1366147823 */
+   margin-bottom: 0.7577431882em; /* whole line 24 / 31.673 = */
+ }
+
+ p {
+    font-family: "Pt Sans", sans-serif;
+
+ }
+ 
