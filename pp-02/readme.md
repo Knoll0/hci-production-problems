@@ -22,15 +22,23 @@ and to be more clean and professional versus an edgier approach
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=51Y0w0ko0mNeuvyjJqyrRiwypd9
+Your Rationale: I went with a more yellow/green/orange palette for this one to convey a warm and nature-like feeling.
+The lighter green resembling the plants and nature that is part of the gardens while the yellow and orange represent
+the seasons turning warm again and a happier and sunny time.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=30d0V0ks4tchmAQmluKu9nhzmil
+Your Rationale: Here I have a red-orange color with a blue and a yellow-green color. Yellow would be a main color 
+being a bit lighter while red and blue would be the accent colors. The yellow would go to give a sense of happiness 
+and hope in this new time for the child while red would try to instill some passion into them. The blue would be more 
+of an accent color to show the responsibility of the site and that it is a serious teaching website.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=b3p57040kinjB9PteeInVmJg0rTb6
+Your Rationale: I went with more muted colors here, with a cyan, red-orange, and lavender to give the sense of 
+professionalisma and responsibility while also trying to instill some passion, energy, and creativity in order to seal 
+a deal and get people to enroll into the course. The muted colors make a more calming feeling to any potenetial 
+students as well.
