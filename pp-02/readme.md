@@ -15,8 +15,10 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=12L0u0k9sig4Asd7dmNaWciikaX
+Your Rationale: The reason that I chose this palette was because green conveys a new beginning and a new console 
+gaming platform is like that new beginning. I also went with a lighter closer to mint green color to let it pop more 
+and to be more clean and professional versus an edgier approach
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
