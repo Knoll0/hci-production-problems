@@ -46,7 +46,12 @@ Small commits to your Production Problems repository that include:
     they don't click the word on the first or second try.
 
 * HCI Guideline Three (URL):
+    https://developer.apple.com/design/human-interface-guidelines/ios/
+    Clarity
 * Describe how you implemented that guideline in your sketch:
+    This form has you entering so much information even though a lot of the information is either
+    unnecessary or can be easily condensed into a single entry. The user is doing too much work
+    and the form should be condensed. 
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
