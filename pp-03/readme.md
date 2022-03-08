@@ -30,7 +30,12 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL):
+    https://developer.apple.com/design/human-interface-guidelines/ios/
+    Aesthetic Integrity
 * Describe how you implemented that guideline in your sketch:
+    The website is just a little bit wider than the window itself which can be incredibly annoying
+    for people on a phone who might accidentally keep swiping horizontally instead of vertically or
+    for those on a laptop who might do the same with the touch-pad.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
