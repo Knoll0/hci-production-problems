@@ -38,7 +38,12 @@ Small commits to your Production Problems repository that include:
     for those on a laptop who might do the same with the touch-pad.
 
 * HCI Guideline Two (URL):
+    https://developer.apple.com/design/human-interface-guidelines/ios/
+    User Control
 * Describe how you implemented that guideline in your sketch:
+    You can only click on the actual word to show the menu when you should be able to click the
+    entire sidebar in order to show the menu. A user might think there is nothing actually there if
+    they don't click the word on the first or second try.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
